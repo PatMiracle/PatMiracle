@@ -1,5 +1,5 @@
 # Hi I'm Miracle 👋🏽
-I enjoy bringing UI/UX to web browsers using React.
+I enjoy bringing amazing UI/UX to web browsers using React.
 
 ## Skills
 - HTML
