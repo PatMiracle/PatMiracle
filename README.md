@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pimiracledev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pimiracledev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miracle pat-idehen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miracle pat-idehen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miracle-pat-idehen-a43288269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miracle pat-idehen" height="30" width="40" /></a>
 <a href="https://hashnode.com/@pimiracle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pimiracle" height="30" width="40" /></a>
 </p>
 
