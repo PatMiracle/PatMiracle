@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miracle</h1>
 <h3 align="center">I am an aspiring full stack JavaScript developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patmiracle" alt="patmiracle" /></a> </p>
-
-- 🔭 I’m currently working on [A Blog API](https://github.com/PatMiracle/blog-api)
 
 - 🌱 I’m currently learning **Node.js, Express**
 
@@ -11,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://pimiracle.hashnode.dev/](https://pimiracle.hashnode.dev/)
 
-- 💬 Ask me about **React Astro Node & Express**
+- 💬 Ask me about **React, Astro, Node & Express**
 
 - 📫 How to reach me **pimiracledev@gmail.com**
 
