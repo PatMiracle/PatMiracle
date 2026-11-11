@@ -2,15 +2,9 @@
 <h3 align="center">I am an aspiring full stack JavaScript developer</h3>
 
 
-- 🌱 I’m currently learning **Node.js, Express**
+- 🌱 I’m currently learning **Go**
 
-- 👯 I’m creating a blog series [Node Novice](https://pimiracle.hashnode.dev/series/node-novice)
-
-- 📝 I regularly write articles on [https://pimiracle.hashnode.dev/](https://pimiracle.hashnode.dev/)
-
-- 💬 Ask me about **React, Astro, Node & Express**
-
-- 📫 How to reach me **pimiracledev@gmail.com**
+- 💬 Ask me about **React, Astro, Next.js Node & Express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
