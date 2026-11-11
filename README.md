@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **React, Astro, Next.js Node & Express**
+- 💬 Ask me about **React, Astro, Next.js, Node & Express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
